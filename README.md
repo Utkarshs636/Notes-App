@@ -17,7 +17,7 @@ Notes App : A client-side application for saving and managing notes directly in 
 
 ## Usage
 
-1. **Open `Notes App `** file in VS code and go live .
+1. **Open `notesapp `** file in VS code and go live .
 2. **Add a note**: Type your note and press Enter.
 3. **Edit**: Just Click on written notes and edit it 
 4. **Delete**: Click the delete icon on right bottom corner
